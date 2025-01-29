@@ -4,15 +4,12 @@
 </p>
 
 # Base De Datos Corte-I:
-Objetivo: Desarrollar un sitio web estático mediante el uso de una plantilla gratuita la cual se debe modificar para incluir información de un artículo descargado de una de las bases de datos científicas a las que se tiene acceso mediante la Fundación Universitaria Konrad Lorenz.
+*Objetivo:* Desarrollar un sitio web estático mediante el uso de una plantilla gratuita la cual se debe modificar para incluir información de un artículo descargado de una de las bases de datos científicas a las que se tiene acceso mediante la Fundación Universitaria Konrad Lorenz.
 
 ## *CARACTERISTICAS:*
 Genere un informe que describa una solución aplicando las siguientes características:
-1. Descripción del problema y Alcance de la solución.
-2. Especificación de requerimientos y/o necesidades de la aplicación (Funcionales)
-3. Identificar y definir los objetos del sistema con sus respectivos atributos.
-4. Identificar y especificar los tipos de usuarios que usarán.
-5. Implemente un guión de contenido.
+1. D
+2. 
 
 # *Generalidades*
 
