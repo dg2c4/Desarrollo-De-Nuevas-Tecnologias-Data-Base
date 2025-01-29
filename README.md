@@ -15,8 +15,7 @@ Genere un informe que describa una solución aplicando las siguientes caracterí
 5. Implemente un guión de contenido.
 
 # *Generalidades*
-### *Estudiante: David Chaves* 
-### *Codigo: 506222728*
+### *Estudiante: David Chaves Codigo: 506222728*
 ### *Asigntura: Desarrrollo de nuevas tecnologias*
 ### *Fundación Universitaria Konrad Lorenz*
 ### *Email institucional:* david.gutierrec@konradlorenz.edu.co  
