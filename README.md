@@ -38,4 +38,4 @@ b. Agregar una conclusión que se relacione con lo consignado en la declaración
 ### Created By:
     [dg2c4](https://github.com/dg2c4)
 
-### *Date: 28/01/2025*
+### *Date: 28/01/2025 - 31/01/2025*
