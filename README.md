@@ -13,7 +13,7 @@ a. La portada del trabajo (Nombre, código, asignatura, carrera, institución, a
 b. Además de incluir una captura de pantalla donde se vean algunos resultados de la búsqueda hecha en Science Direct, donde se observe también el artículo seleccionado.
 
 2. Sección #2: Presentar la ficha técnica del artículo con los siguientes datos: título, autores, resumen, palabras clave, enlace del artículo, cantidad de referencias.
-3. Sección #3: Presentar cada una de las preguntas realizadas usando la herramienta MonicaIA y sus respectiva respuesta.
+3. Sección #3: Presentar cada una de las preguntas realizadas usando la herramienta Monica IA y sus respectiva respuesta.
 
 4. Sección #4:\
 a. Presentar su opinión personal sobre el artículo (mín-300-words).\
