@@ -24,9 +24,7 @@ a. Diligenciar la declaración de uso de IA teniendo en cuenta las IA que haya u
 b. Agregar una conclusión que se relacione con lo consignado en la declaración de uso de IA (Respecta a las IA utilizadas y su utilidad).
 
 # Systems engineering
-
-## *Estudiante & Codigo:* 
-*David Gutierrez Chaves. 506222728.* 
+### *Student: David Gutierrez Chaves. Code: 506222728.* 
 
 ## *Asigntura:* 
 *Desarrrollo de nuevas tecnologias.*
