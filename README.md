@@ -1,6 +1,6 @@
 # Desarrollo-De-Nuevas-Tecnolog-as-Data-Base
 <p align="center">
-  <img width="600" height="550" src="Assets/Developer programmer-Программист-разработчик.jpeg" alt="Desarrollo-De-Nuevas-Tecnolog-as-Data-Base">
+  <img width="600" height="750" src="Assets/Developer programmer-Программист-разработчик.jpeg" alt="Desarrollo-De-Nuevas-Tecnolog-as-Data-Base">
 </p>
 
 # 
