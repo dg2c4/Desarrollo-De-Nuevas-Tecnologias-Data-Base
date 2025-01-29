@@ -14,7 +14,8 @@ Genere un informe que describa una solución aplicando las siguientes caracterí
 4. Identificar y especificar los tipos de usuarios que usarán.
 5. Implemente un guión de contenido.
 
-## *Estudiante: David Chaves* 
+# *Generalidades*
+### *Estudiante: David Chaves* 
 ## *Codigo: 506222728*
 ## *Asigntura: Desarrrollo de nuevas tecnologias*
 ## *Fundación Universitaria Konrad Lorenz*
