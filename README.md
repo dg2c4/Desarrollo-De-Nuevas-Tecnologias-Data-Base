@@ -16,11 +16,11 @@ Genere un informe que describa una solución aplicando las siguientes caracterí
 
 # *Generalidades*
 ### *Estudiante: David Chaves* 
-## *Codigo: 506222728*
-## *Asigntura: Desarrrollo de nuevas tecnologias*
-## *Fundación Universitaria Konrad Lorenz*
-## *Email institucional:* david.gutierrec@konradlorenz.edu.co  
-## *Date: 28/01/2025*
+### *Codigo: 506222728*
+### *Asigntura: Desarrrollo de nuevas tecnologias*
+### *Fundación Universitaria Konrad Lorenz*
+### *Email institucional:* david.gutierrec@konradlorenz.edu.co  
+### *Date: 28/01/2025*
 
 ### Created By:
     https://github.com/DG20C4
