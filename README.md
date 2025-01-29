@@ -17,7 +17,7 @@ b. Además de incluir una captura de pantalla donde se vean algunos resultados d
 
 4. Sección #4:\
 a. Presentar su opinión personal sobre el artículo (mín-300-words).\
-b. En alguna parte del sitio web se debe colocar el enlace de la plantilla utilizada.\
+b. En alguna parte del sitio web se debe colocar el enlace de la plantilla utilizada.
 
 5. Sección #5:\
 a. Diligenciar la declaración de uso de IA teniendo en cuenta las IA que haya utilizado para este trabajo.\
