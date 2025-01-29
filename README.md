@@ -1,6 +1,6 @@
 # Desarrollo-De-Nuevas-Tecnologias-Data-Base
 <p align="center">
-  <img width="600" height="750" src="Assets/Developer programmer-Программист-разработчик.jpeg" alt="Desarrollo-De-Nuevas-Tecnolog-as-Data-Base">
+  <img width="600" height="750" src="Assets/Developer programmer-Программист-разработчик.jpeg" alt="Desarrollo-De-Nuevas-Tecnologias-Data-Base">
 </p>
 
 # Base De Datos Corte-I:
