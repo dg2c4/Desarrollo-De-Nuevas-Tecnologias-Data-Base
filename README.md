@@ -25,15 +25,11 @@ b. Agregar una conclusión que se relacione con lo consignado en la declaración
 
 # Systems engineering
 ### *Student: David Gutierrez Chaves. Code: 506222728.* 
+### *subject: Desarrrollo de nuevas tecnologias.*
+### *Institution: Fundación Universitaria Konrad Lorenz.*
 
-## *Asigntura:* 
-*Desarrrollo de nuevas tecnologias.*
-
-## *Email institucional:* 
+### *Institutional email:* 
     david.gutierrec@konradlorenz.edu.co  
-
-## *Institución:* 
-*Fundación Universitaria Konrad Lorenz.*
 
 ### Created By:
     [dg2c4](https://github.com/dg2c4)
