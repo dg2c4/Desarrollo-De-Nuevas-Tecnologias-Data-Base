@@ -20,20 +20,17 @@
 a. Diligenciar la declaración de uso de IA teniendo en cuenta las IA que haya utilizado para este trabajo.
 b. Agregar una conclusión que se relacione con lo consignado en la declaración de uso de IA (Respecta a las IA utilizadas y su utilidad).
 
-## *Estudiante:* 
-*David Gutierrez Chaves* 
+### *Estudiante & Codigo:* 
+*David Gutierrez Chaves. 506222728.* 
 
-## *Codigo:* 
-*506222728*
-
-## *Asigntura:* 
-*Desarrrollo de nuevas tecnologias*
-
-## Institución:* 
-*Fundación Universitaria Konrad Lorenz*
+### *Asigntura:* 
+*Desarrrollo de nuevas tecnologias.*
 
 ### *Email institucional:* 
     david.gutierrec@konradlorenz.edu.co  
+
+## Institución:* 
+*Fundación Universitaria Konrad Lorenz.*
 
 ### Created By:
     https://github.com/DG20C4
