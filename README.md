@@ -17,7 +17,10 @@ Genere un informe que describa una solución aplicando las siguientes caracterí
 # *Generalidades*
 
 ## *Estudiante:* 
-*David Chaves Codigo: 506222728*
+*David Gutierrez Chaves* 
+
+## *Codigo:* 
+*506222728*
 
 ## *Asigntura:* 
 *Desarrrollo de nuevas tecnologias*
