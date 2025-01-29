@@ -6,11 +6,11 @@
 # Base De Datos Corte-I:
 *Objetivo: Desarrollar un sitio web estático mediante el uso de una plantilla gratuita la cual se debe modificar para incluir información de un artículo descargado de una de las bases de datos científicas a las que se tiene acceso mediante la Fundación Universitaria Konrad Lorenz.*
 
-## *CARACTERISTICAS:*
-### *Genere una solución aplicando las siguientes indicaciones donde en cada "página/sección" se muestre:*
+# *CARACTERISTICAS:*
+## *Genere una solución aplicando las siguientes indicaciones donde en cada "página/sección" se muestre:*
 ### 1. Sección #1:
-###    a. La portada del trabajo (Nombre, código, asignatura, carrera, institución, año, etc.).
-###    b. Además de incluir una captura de pantalla donde se vean algunos resultados de la búsqueda hecha en Science Direct, donde se observe también el artículo seleccionado.
+a. La portada del trabajo (Nombre, código, asignatura, carrera, institución, año, etc.).
+b. Además de incluir una captura de pantalla donde se vean algunos resultados de la búsqueda hecha en Science Direct, donde se observe también el artículo seleccionado.
 ### 2. Sección #2: Presentar la ficha técnica del artículo con los siguientes datos: título, autores, resumen, palabras clave, enlace del artículo, cantidad de referencias.
 ### 3. Sección #3: Presentar cada una de las preguntas realizadas usando la herramienta MonicaIA y sus respectiva respuesta.
 ### 4. Sección #4:
