@@ -12,7 +12,7 @@ Sección #1:\
 a. La portada del trabajo (Nombre, código, asignatura, carrera, institución, año, etc.).\
 b. Además de incluir una captura de pantalla donde se vean algunos resultados de la búsqueda hecha en Science Direct, donde se observe también el artículo seleccionado.
 
-Sección #2:\ 
+Sección #2:\
 Presentar la ficha técnica del artículo con los siguientes datos: título, autores, resumen, palabras clave, enlace del artículo, cantidad de referencias.\
 
 Sección #3:\
