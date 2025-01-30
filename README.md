@@ -4,7 +4,7 @@
 </p>
 
 # Link Del Trabajo Realizado:
-
+    https://www.
 
 # Base De Datos Corte-I:
 ### *Objetivo: Desarrollar un sitio web estático mediante el uso de una plantilla gratuita la cual se debe modificar para incluir información de un artículo descargado de una de las bases de datos científicas a las que se tiene acceso mediante la Fundación Universitaria Konrad Lorenz.*
@@ -41,6 +41,6 @@ b. Agregar una conclusión que se relacione con lo consignado en la declaración
     david.gutierrec@konradlorenz.edu.co  
 
 # Created By:
-    [dg2c4](https://github.com/dg2c4)
+    [dg2c4] https://github.com/dg2c4
 
 ### *Date: 28/01/2025 - 31/01/2025*
