@@ -41,6 +41,6 @@ b. Agregar una conclusión que se relacione con lo consignado en la declaración
     david.gutierrec@konradlorenz.edu.co  
 
 # Created By:
-    [dg2c4] https://github.com/dg2c4
+    https://github.com/dg2c4
 
 ### *Date: 28/01/2025 - 31/01/2025*
