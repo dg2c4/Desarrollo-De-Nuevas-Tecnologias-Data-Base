@@ -7,11 +7,11 @@
     https://desarrollo-de-nuevas-tecnologias-data-base.vercel.app/
 
 # Base De Datos Corte-I:
-### Objetivo: Desarrollar un sitio web estático mediante el uso de una plantilla gratuita la cual se debe modificar para incluir información de un artículo descargado de una de las bases de datos científicas a las que se tiene acceso mediante la Fundación Universitaria Konrad Lorenz.
+## Objetivo: Desarrollar un sitio web estático mediante el uso de una plantilla gratuita la cual se debe modificar para incluir información de un artículo descargado de una de las bases de datos científicas a las que se tiene acceso mediante la Fundación Universitaria Konrad Lorenz.
 
 
 # *CARACTERISTICAS:*
-### *Genere una solución aplicando las siguientes indicaciones donde en cada "página/sección" se muestre:*
+### Genere una solución aplicando las siguientes indicaciones donde en cada "página/sección" se muestre:
 Sección #1:\
 a. La portada del trabajo (Nombre, código, asignatura, carrera, institución, año, etc.).\
 b. Además de incluir una captura de pantalla donde se vean algunos resultados de la búsqueda hecha en Science Direct, donde se observe también el artículo seleccionado.\
@@ -33,7 +33,8 @@ b. Agregar una conclusión que se relacione con lo consignado en la declaración
 
 
 # Systems engineering
-### Student: David Gutierrez Chaves. Code: 506222728.
+### Student: David Gutierrez Chaves. 
+### Code: 506222728.
 ### Subject: Desarrrollo de nuevas tecnologias.
 ### Institution: Fundación Universitaria Konrad Lorenz.
 
