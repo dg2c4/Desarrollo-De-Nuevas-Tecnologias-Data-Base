@@ -31,4 +31,4 @@ C. Colocar el enlace del sitio web se debe colocar el enlace de la plantilla uti
 # Created By:
     https://github.com/dg2c4
 
-### *Date: 06/02/2025 - 11/02/2025*
+### *Date: 29/01/2025 - 31/01/2025*
