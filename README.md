@@ -11,7 +11,7 @@
     artículo descargado de una de las bases de datos científicas a las que se tiene acceso mediante la Fundación Universitaria Konrad Lorenz.
 
 # *CARACTERISTICAS:*
-    Genere una solución aplicando las siguientes indicaciones donde en cada "página/sección" se muestre:
+Genere una solución aplicando las siguientes indicaciones donde en cada "página/sección" se muestre:
 
 ### *Sección #1:*
     a. La portada del trabajo (Nombre, código, asignatura, carrera, institución, año, etc.).
