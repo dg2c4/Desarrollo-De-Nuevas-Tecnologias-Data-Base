@@ -50,7 +50,7 @@ Genere una solución aplicando las siguientes indicaciones donde en cada "págin
 | Student: | David Gutierrez Chaves |
 |------|--------|
 | Code: | 506222728 |
-| Subject: | Big Data Electiva-I |
+| Subject: | Nuevas Tecnologias |
 | Institution: | Fundación Universitaria Konrad Lorenz |
 | Institutional email | david.gutierrec@konradlorenz.edu.co |  
 
