@@ -47,7 +47,7 @@ Genere una solución aplicando las siguientes indicaciones donde en cada "págin
 
 
 # *Systems engineering:*
-| Student: | David Gutierrez Chaves |
+| User: | David Gutierrez Chaves |
 |------|--------|
 | Code: | 506222728 |
 | Subject: | Nuevas Tecnologias |
