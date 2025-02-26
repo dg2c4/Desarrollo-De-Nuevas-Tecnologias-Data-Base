@@ -4,7 +4,7 @@
 </p>
 
 # *Link Del Trabajo Realizado:*
-    https://desarrollo-de-nuevas-tecnologias-data-base.vercel.app/
+    https://dg2c4.github.io/Desarrollo-De-Nuevas-Tecnologias-Data-Base/
 
 # *Objetivo:*
     Desarrollar un sitio web estático mediante el uso de una plantilla gratuita la cual se debe modificar para incluir información de un 
